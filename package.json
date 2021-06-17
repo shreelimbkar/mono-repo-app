@@ -2,8 +2,7 @@
   "name": "mono-repo-app",
   "private": true,
   "workspaces": [
-    "adminclient",
-    "webclient"
+    "packages/*"
   ],
   "version": "1.0.0",
   "description": "Yarn Workspaces Setup - Multiple JavaScript Packages (Mono-Repo)",
