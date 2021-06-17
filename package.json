@@ -1,0 +1,25 @@
+{
+  "name": "mono-repo-app",
+  "private": true,
+  "workspaces": [
+    "adminclient",
+    "webclient"
+  ],
+  "version": "1.0.0",
+  "description": "Yarn Workspaces Setup - Multiple JavaScript Packages (Mono-Repo)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreelimbkar/mono-repo-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreelimbkar/mono-repo-app/issues"
+  },
+  "homepage": "https://github.com/shreelimbkar/mono-repo-app#readme"
+}
